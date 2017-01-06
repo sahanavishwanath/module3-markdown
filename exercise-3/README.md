@@ -16,6 +16,6 @@ The `mkdir` command can be used to create a new directory or folder. For example
 ```
 mkdir pics-of-puppies
 ```
-Here's some more information about the 'mkdir' command:
+Here's some more information about the `mkdir` command:
 * You can create multiple directories at once: `mkdir pics-of-puppies pics-of-kittens pics-of-bunnies`
 * It can be used to create intermediate directories for a new directory: `mkdir -p US/Washington/Seattle`
